@@ -1,0 +1,302 @@
+[
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 401 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MTH754A: Probability Theory <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Minerva Mukhopadhyay <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MATH <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 402 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MTH755A: Statistical Inference <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sharmishtha Mitra <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MATH <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 403 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MSO203B/A: Partial Differential Equations <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Kaushik Bal, Dr. T Muthukumar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MATH <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 404 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MSO203B/B: Partial Differential Equations <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. T Muthukumar, Dr. Kaushik Bal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MATH <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 405 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MTH201A/A: A First Course In Linear Algebra <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Santosh Nadimpalli <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MATH <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 406 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MTH201A/B: A First Course In Linear Algebra <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Somnath Jha <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MATH <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 407 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME685A: Applied Numerical Methods <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Malay Kumar Das <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 408 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME742A: Boiling And Condensation <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. P S Ghoshdastidar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 409 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ESO209A: Dynamics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Ishan Sharma <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 410 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME251A: Engineering Design And Graphics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Anindya Chatterjee <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 411 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME301A: Energy Systems I <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Avinash Kumar Agarwal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 412 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME321A: Advance Mechanics Of Solids <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Chandraprakash Chindam <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 413 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME340A: Introduction To Refrigeration And Air Conditioning <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Umesh Madanan <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 414 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME352A: Theory Of Mechanisms & Machines <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Bhaskar Dasgupta <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 415 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME361A: Manufacturing Science & Technology <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Shantanu Bhattacharya, Dr. Supratik Mukhopadhyay <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 416 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME399A: Mechanical Engineering Communication Skills <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sameer Khandekar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 417 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME401A: Energy Systems-Ii <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Aditya Saurabh <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 418 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME617A: Advanced Theory Of Turbomachinery <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Subrata Sarkar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 419 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME621A: Introduction To Solid Mechanics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Basant Lal Sharma <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 420 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME623A: Finite Element Methods In Engineering Mechanics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sumit Basu <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 421 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME625A: Applied Dynamics And Vibrations <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Shakti Singh Gupta <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 422 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME630A: Computational Fluid Dynamics And Heat Transfer <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Anikesh Pal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 423 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME631A: Viscous Flow Theory <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sachin Y Shinde <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 424 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME634A: Advanced Computational Fluid Dynamics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Gautam Biswas <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 425 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME641A: Conduction And Radiation <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Santanu De <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 426 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME645A: Solar Energy Technology <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Jishnu Bhattacharya <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 427 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME649A: Experimental Methods In Thermal Sciences <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. K Muralidhar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 428 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME662A: Machining Science Ii <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Janakarajan Ramkumar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 429 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME666A: Inviscid Flows <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Pranav Joshi <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 430 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME668A: Machining Dynamics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Mohit Subhash Law <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 431 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME670A: Additive Manufacturing <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Arvind Kumar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 432 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME681A: Mathematics For Engineers <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Manjesh Singh <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 433 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME711A: Computational Turbulence <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Arun Kumar Saha <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 434 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME721A: Theory Of Plasticity <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Anurag Gupta <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 435 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME756A: Vibration Control <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. B Bhattacharya <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 436 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME757A: Dynamics Of Rotating Machinery <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. N S Vyas <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 437 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME762A: Introduction To Robotics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Ashish Dutta <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 438 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME778A: Engineering Acoustics And Its Control <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Akhilesh Mimani <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 439 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> TA202A/D: Manufacturing Processes Ii <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Niraj Sinha <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 440 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MS601A: Structural & Magnetic Properties Of Materials <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sri Sivakumar, Dr. Anandh Subramaniam <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 441 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MS602A: Electrical And Dielectric Materials <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Raj Ganesh S Pala, Dr. Md Jaleel Akhtar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 442 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MS603A: Mechanical Properties Of Materials <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Kamal K Kar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 443 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MS698A: Graduate Seminar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Rajeev Gupta <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 444 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MSE628A: Electronic Devices And Characterization <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Deepak Gupta <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 445 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ESO205A: Nature And Properties Of Materials <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Nilesh Prakash Gurao <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 446 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MSE201A: Thermodynamics & Phase Equilibria <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Kallol Mondal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 447 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MSE300A: Professional & Technical Communication <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Anshu Gaur <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 448 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MSE301A: Phase Transformations <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Rajdip Mukherjee <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 449 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MSE302A: Mechanical Behaviour Of Materials <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Niraj Chawake <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 450 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MSE303A: Electronic & Magnetic Properties Of Materials <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Kanwar Singh Nalwa <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ }
+]

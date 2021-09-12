@@ -1,0 +1,302 @@
+[
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 151 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM609A: Principles Of Organic Chemistry <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Ramesh Ramapanicker <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 152 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM611A: Physical Organic Chemistry <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Anand Singh <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 153 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM621A: Chemical Binding <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Nisanth N Nair <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 154 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM629A: Principles Of Physical Chemistry <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Dasari L V K Prasad <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 155 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM631A: Applications Of Modern Instrumental Methods <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sankar Prasad Rath, Dr. Sabuj Kumar Kundu <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 156 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM636A: Physical Photochemistry <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Pratik Sen <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 157 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM646A: Bio-Inorganic Chemistry <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Ritika Gautam <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 158 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM647A: Macrocycles, Rings And Polymers <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Anantharaman Ganapathi <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 159 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM648A: The Chemistry Of Metal-Carbon Bond: Structure Reactivity & Applications <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Jitendra Bera <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 160 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM649A: Principales Of Inorganic Chemistry <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Raja Angamuthu <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 161 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM650A: Statistical Mechanics & Its Appl. To Chemistry <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Amalendu Chandra <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 162 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM656A: Organic Structure Determination By Spectroscopic Techniques <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Manas Kumar Ghorai <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 163 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM664A: Modern Physical Methods In Chemistry <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Manabendra Chandra <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 164 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM681A: Basic Biological Chemistry <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. R Gurunath <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 165 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM682A: Modern Chemistry And Applications Of Lanthanides <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Ashis Kumar Patra <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 166 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM685A: Molecule Radiation Interaction <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Arnab Ghosh <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 167 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM691A: Frontiers In Inorganic Chemistry <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Apparao Draksharapu <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 168 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM692A: Special Topics In Physical Chemistry <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Keshavamurthy Srihari <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 169 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM696A: Quantum Computing <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Debabrata Goswami <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 170 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM800A: General Seminar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sabuj Kumar Kundu <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 171 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM801A: Graduate Seminar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sabuj Kumar Kundu <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 172 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM102: GENERAL CHEMISTRY <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Madhav V. Ranganathan, Dr. Devendra Mani, Dr. Srinivas Dharavath, Dr. Basker Sundararaju <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CHM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 173 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> COM200: Communication Skills: Composition <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sudharshana N P, Dr. Usha Udaar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> COM <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 174 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS201A: Mathematics For Computer Science -I <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Manindra Agrawal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 175 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS300A: Technical Communication <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Preeti Malakar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 176 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS330A: Operating Systems <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Debadatta Mishra <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 177 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS340A: Theory Of Computation <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Raghunath Tewari <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 178 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS345A: Algorithms -II <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Surender Baswana <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 179 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS350A: Principles Of Programming Langauges <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Amey Karkare <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 180 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS422A: Computer Architecture <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Mainak Chaudhuri <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 181 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS631A: Cyber Security Of Critical Infrastructures <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sandeep Kumar Shukla <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 182 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS637A: Embedded And Cyber-Physical Systems <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Indranil Saha <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 183 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS639A: Program Analysis, Verification And Testing <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Subhajit Roy <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 184 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS640A: Computational Complexity <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Nitin Saxena <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 185 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS646A: Parallel Algorithms <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sanjeev Saxena <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 186 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS652A: Computer Aided Verification <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Pingala Admin <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 187 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS656A: Algorithmic Game Theory <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sunil Easaw Simon <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 188 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS685A: Data Mining <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Arnab Bhattacharya <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 189 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS697A: Special Topics In Computer Science <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Satyadev Nandakumar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 190 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS698C: Sketching And Sampling For Big Data Analysis <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sumit Ganguly <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 191 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS698Q: Complexity Measures For Boolean Functions <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Rajat Mittal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 192 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS698R: Deep Reinforcement Learning <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Ashutosh Modi <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 193 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS698T: Introduction To Internet Of Things And Its Industrial Applications <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Priyanka Bagade <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 194 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS698U: Hardware Security Of Internet Of Things <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Urbi Chatterjee <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 195 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS711A: Introduction To Game Theory And Mechanism Design <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Swaprava Nath <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 196 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS771A: Introduction To Machine Learning <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Nisheeth Srivastava <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 197 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS797A: Special Topics In Computer Science <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Satyadev Nandakumar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 198 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ESO207A: Data Structure & Algorithm <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Anil Seth <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 199 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CS698F: Sensing Communications and Networking for Smart Wireless Devices <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Amitangshu Pal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> CSE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 200 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> DES601A: Design Theory <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Koumudi Patil <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> DES <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ }
+]

@@ -1,0 +1,302 @@
+[
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 301 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ENG457A: Film And Theory <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Syed Feroz <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 302 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ENG701A: Fundamentals Of Modern Linguistics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Usha Udaar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 303 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> SOC757A: Law And Social Change <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Munmun Jha <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 304 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> SOC745A: Social Theory In Late Twentieth Century <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Binay Kumar Pattnaik, Dr. Pradip Swarnakar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 305 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> SOC733A: Population Processes <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Esha Chatterjee <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 306 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ENG743A: Feminist Theory And Literature <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Suchitra Mathur <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 307 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> SOC724A: Urban Sociology <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Jillet Sarah Sam <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 308 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ENG744A: Documentary Film-History & Theory <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Syed Feroz <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 309 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ENG750A: Postwar American Fiction <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. G Neelakantan <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 310 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> SOC486A: Human Rights Theory And Practice <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Munmun Jha <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 311 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> SOC479A: Population, Economy And Society <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Esha Chatterjee <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 312 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ENG764A: Indian Epic Narratives <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Mini Chandran <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 313 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> SOC473A: Indian Society And Culture <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Binay Kumar Pattnaik <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 314 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> SOC471A: Introduction To Computational Sociology <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Pradip Swarnakar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 315 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> SOC173A: Introduction To Indian Society <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Anindita Chakrabarti <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 316 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> PHI145A: Introduction To Philosophy Of Biology & Cognition <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Lalit Saraswat <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 317 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> PHI447A: Moral Thinking <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Vineet Sahu <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 318 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> PSY776A: Seminar Course In Psychology <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Braj Bhushan <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 319 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> PHI757A: Moral Judgement <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Vineet Sahu <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 320 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> PSY470A: Psychology Of Wellbeing <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Kumar Ravi Priya <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 321 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> PHI768A: Modal Logic <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. A V Ravishankar Sarma <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 322 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> PHI786A: Evolutionary Theories Of Knowledge And Cognition <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Lalit Saraswat <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 323 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ENG751A/A: Contemporary Critical Theories & Literary Praxes <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sayan Chattopadhyay <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 324 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ENG751A/B: Contemporary Critical Theories & Literary Praxes <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sayan Chattopadhyay <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 325 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ART710A: INDIVIDUAL PROJECT <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> KOUMUDI  PATIL <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> HSS <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 326 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME602A: Probability And Statistics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Avijit Khanra <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 327 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME603A: Introduction To Computing <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Veena Bansal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 328 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME605A: Operations Research For Management <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sri Vanamalla V <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 329 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME636A: Introduction To Game Theory <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sri Vanamalla V <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 330 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME672A: Data Mining And Knowledge Discovery <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Faiz Hamid <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 331 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME692A: Advanced Statistical Methods For Business Analytics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Shankar Prawesh <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 332 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME698A: Seminar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Avijit Khanra <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 333 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA601A: Accounting & Finance <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. B V Phani, Dr. Suman Saurabh <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 334 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA606A: Economic Analysis For Management <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Subhankar Mukherjee <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 335 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA611A: Organization Structure And Design <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Rahul Varman <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 336 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA623A: Strategic Management <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. R R K Sharma <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 337 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA631A: Marketing Management <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Jitender Kumar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 338 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA643A: Simulation Of Business Systems <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Deepu Philip <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 339 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA646A: Enterprise Integration With It <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Veena Bansal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 340 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA647A: Business Process Management <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Subhas Chandra Misra <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 341 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA651A: Quantitative Methods For Decision Making <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Faiz Hamid <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 342 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA652A: Statistical Modelling For Business Analytics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Devlina Chatterjee <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 343 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA663A: Total Quality Management <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Raghu Nandan Sengupta <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 344 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA664A: Supply Chain Management <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Vipin B <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 345 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA683A: Power Sector Reform & Regulation: Theory And Practice <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Anoop Singh <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 346 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA698A: Management Seminars <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Avijit Khanra <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 347 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA712A: Organizational Staffing <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Amit Shukla <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 348 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA713A: Performance Management <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Amit Shukla <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 349 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA717A: Governance Of Global Value Chains <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Rahul Varman <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 350 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> MBA731A: Business To Business Marketing <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Subhankar Mukherjee <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> IME <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ }
+]

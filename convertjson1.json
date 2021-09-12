@@ -1,0 +1,302 @@
+[
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 1 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE602A: Mathematics For Aerospace Engineering <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Dipak Giri <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 2 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE201A: Introduction To Aerospace Engineering <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Abhishek, Dr. Debopam Das <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 3 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE311A: Compressible Aerodynamics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Rakesh Kumar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 4 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE321A: Flight Mechanics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. A K Ghosh <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 5 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE331A: Introduction To Aerospace Structures <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Gopalakrishna M Kamath <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 6 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE441A: Rocket Propulsion <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sathesh Mariappan <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 7 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE451A: Experiments In Aerospace Engineering Iii <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Rajesh Kitey, Dr. Ajay Singh, Dr. Rakesh Kumar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 8 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE461A: Aircraft Design-I <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Subrahmanyam Saderla <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 9 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE481A: Boundary Layer Theory <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sanjay Mittal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 10 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE601A: Intro To Aerospace Engg. <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Abhijit Kushari, Dr. P M Mohite <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 11 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE610A: Aerodynamics-I <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Arun Perumal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 12 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE614A: Viscous Flows <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Navrose <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 13 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE647A: Flight Dynamics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Raghavendra Kukillaya <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 14 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE649A: Automatic Control Of Aircraft Rockets And Spacecraft <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Dipak Giri <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 15 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE663A: Fundamentals Of Combustion <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Ashoke De <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 16 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE664A: Applied Compressible Flows <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Rajesh Ranjan <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 17 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE667A: Nano-Particle Aerosol Dynamics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Vaibhav Kumar Arghode <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 18 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE670A: Aerospace Structural Analysis - I <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Tanmoy <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 19 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE674A: Advanced Hydrodynamic Stability <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Arnab Samanta <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 20 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE684A: Aircraft Materials And Processes <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Prakash D Mangalgiri <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 21 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE686A: Helicopter Theory : Dynamics And Aeroelasticity <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Abhishek <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 22 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE688A: Dynamics And Vibration <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Pritam Chakraborty <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 23 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE691A: Optimal Control And Reinforcement Learning <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Mangal Kothari <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 24 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE698A: Intro To Virtual Instrumentation <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Kamal Poddar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 25 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE702A: Continuum Mechanics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Pritam Chakraborty, Dr. Ashoke De <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 26 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE703A: Computational Methods <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Arnab Samanta, Dr. Tanmoy <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 27 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE704A: Deformation And Fracture <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Rajesh Kitey <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 28 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE720A: Hypersonic Flows <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Mohammed Ibrahim Sugarno <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 29 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE777A: Optimal Space Flight Control <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Ashish Tiwari <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 30 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ESO204A: Fluid Mechanics And Rate Processes <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Alakesh Chandra Mandal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 31 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AE361A: Aeromodel Design & Fabrication <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Debopam Das, Dr. Sathesh Mariappan <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> AERO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 32 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE211A: Organ System, Physiology And Anatomy <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Mainak Das <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 33 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE301A: Scientific & Professional Communication <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Nitin Mohan, Dr. Dibyendu Kumar Das <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 34 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE311A: Molecular Cell Biology <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Amitabha Bandyopadhyay, Dr. Sai Pydi <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 35 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE312A: Molecular Biology Lab <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Bushra Ateeq <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 36 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE411A: Biomaterials <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Santosh Misra <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 37 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE412A: Biomaterial, Physiology & Bio-Mems Laboratory <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Santosh Misra, Dr. Mainak Das, Dr. Ashok Kumar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 38 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE492A: Methods In Biotechnology-I, Experimental Bioseperation <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Ashok Kumar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 39 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE601A: Professional Communication <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Subramaniam Ganesh <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 40 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE611A: Modern Instrumental Methods In Biological Sciences <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Nitin Mohan, Dr. Dibyendu Kumar Das <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 41 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE613A: Biomaterials <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Dhirendra S Katti <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 42 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE631A: Biochemistry Structural Biology <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Ramasubbu S Ramakrishnan <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 43 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE642A: Microbiology And Immunology <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Saravanan Matheshwaran <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 44 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE651A: Cellular Moleculer Biology <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Jayandharan Giridhara Rao <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 45 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE655A: Physiology <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Jonaki Sen <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 46 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE656A: Neurobiology <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Nitin Gupta <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 47 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE658A: Statistics For Modern Biology <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Arjun Ramakrishnan <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 48 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE661A: Biological Membranes <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Appu Singh <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 49 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE701A: Seminar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Jayandharan Giridhara Rao <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 50 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSE702A: Seminar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Jayandharan Giridhara Rao <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> BSBE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ }
+]

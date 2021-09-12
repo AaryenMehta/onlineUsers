@@ -1,0 +1,302 @@
+[
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 201 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> DES681A: Design Practice I <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Satyaki Roy <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> DES <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 202 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> DES633A: Integrated Product Development-I <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Nachiketa Tiwari, Dr. B Bhattacharya <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> DES <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 203 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> DES624A: Elements And Principal Of Design <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Shatarupa Thakurta Roy <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> DES <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 204 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> DES602A: Design Practice I <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Janakarajan Ramkumar <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> DES <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 205 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO201A: Microeconomics I <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Vasudha Jain, Dr. Bikramaditya Datta <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 206 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO221A: Macroeconomics I <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Surajit Sinha <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 207 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO301A: Microeconomics Ii <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sarani Saha <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 208 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO321A: Macroeconomics-Ii <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Wasim Ahmad <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 209 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO341A: Econometrics I <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Praveen Kulshreshtha <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 210 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO397A: Technical Communication <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Wasim Ahmad <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 211 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO411A: Industrial Economics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Bikramaditya Datta, Dr. Vasudha Jain <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 212 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO412A: International Economics And Finance <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Somesh Kumar Mathur <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 213 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO502A: Applied Game Theory <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Thirumulanathan Dhayaparan <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 214 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO504A: Economic Analysis Of Law <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. P Murali Prasad <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 215 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO507A: Managerial Economics & Business Analysis <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Deep Mukherjee <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 216 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO522A: Monetary Economics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sukumar Vellakkal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 217 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO523A: Economic Growth Theory And Practice <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sohini Sahu <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 218 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO724A: Dynamic Macroeconomics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Anand Chopra <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 219 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO732A: Econometrics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Praveen Kulshreshtha <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 220 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO737A: Advances In Microeconomic Theory <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sarani Saha <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 221 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO745A: Advanced Monetary Theory <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sukumar Vellakkal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 222 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO747A: Environmental Economics Legislation And Social Impact <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. P Murali Prasad <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 223 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO752A: Quantitative Analysis Of International Trade <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Somesh Kumar Mathur <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 224 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO756A: Programme Evaluation: Methods And Applications <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Sounak Thakur <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 225 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO423A: Financial Economics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Hargungeet Singh <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ECO <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 226 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ESC201A: Introduction to Electronics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. K S Venkatesh, Dr. S Swamy, Dr. SSK Iyer <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 227 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ESC201P: Introduction to Electronics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. B Mazhari, Dr. Shubham Sahay, Dr. Imon Mondal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 228 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ESO203A:Introduction to Electrical Engineering  <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Suvendu Samanta <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 229 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> ESO203P: Introduction to Electrical Engineering <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Abhijeet  Mohapatra, Dr. Alok Verma, Dr. Saikat Chakrabarty <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 230 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE380A: Electrical Engineering Lab <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Y N Singh, Dr. B Mazhari, Dr. Rik Dey, Dr. Soumya Sahoo, Dr. R Potluri, Dr. Suvendu Samanta, Dr. P. Sensarma <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 231 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE480A: Electrical Engineering Lab <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Y N Singh, Dr. B Mazhari, Dr. Rik Dey, Dr. Soumya Sahoo, Dr. R Potluri, Dr. Suvendu Samanta, Dr. P. Sensarma <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 232 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE200A: Signals, Systems & Networks <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. K S Venkatesh <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 233 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE320A: Principles Of Communication <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Kasturi Vasudevan <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 234 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE330A: Power Systems <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Alok Verma <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 235 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE370A: Digital Electronics <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Shubham Sahay <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 236 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE390A: Electrical Engineering Communication Skills <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Utpal Das <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 237 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE602A: Statistical Signal Processing-I <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Rajesh Mahanand Hegde <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 238 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE603A: Machine Learning For Signal Processing <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Vipul Arora <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 239 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE604A: Image Processing <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. T. Sandhan <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 240 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE605A: Introduction To Signal Analysis <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Govind Sharma <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 241 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE606A: Optimization For Big Data <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Ketan Rajawat <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 242 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE610A: Analog/Digital Vlsi Circuits <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Imon Mondal <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 243 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE614A: Solid State Devices I <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Rik Dey <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 244 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE616A: Semiconductor Device Modelling <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Aloke Dutta <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 245 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE617A: Industrial Automation And Control <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Nishchal K Verma <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 246 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE618A: Integrated Circuit Fabrication Technology <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Amit Verma <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 247 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE621A: Representation And Analysis Of Random Signals <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Abhishek Gupta <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 248 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE629A: Digital Switching <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Yatindra Nath Singh <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 249 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE630A: Simulaton Of Modern Power Systems <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. Abheejeet Mohapatra <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ },
+ {
+   "S.No.": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> 250 <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Course": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE632A: Economic Operation & Control Of Power Systems <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Instructor": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> Dr. S N Singh <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->",
+   "Department": "<!-- THEME DEBUG --> <!-- THEME HOOK: 'views_view_field' --> <!-- BEGIN OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' --> EE <!-- END OUTPUT from 'core/themes/stable/templates/views/views-view-field.html.twig' -->"
+ }
+]
