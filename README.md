@@ -1,2 +1,2 @@
 # onlineUsers
-Shows online users on mookit website
+Shows online users on Mookit website
